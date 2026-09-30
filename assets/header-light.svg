@@ -38,7 +38,7 @@
     <text x="60" y="222" class="role">Developer &amp; Designer. Creating digital experiences<tspan x="60" dy="34">with software, design and innovation.</tspan><tspan class="accent caret" dx="4">▍</tspan></text>
   </g>
 
-  <text x="60" y="302" class="meta in" style="animation-delay:.6s">REACT · TYPESCRIPT · PYTHON · PHP · SQL</text>
+  <text x="60" y="302" class="meta in" style="animation-delay:.6s">JAVA · KOTLIN · PYTHON · TYPESCRIPT · PHP · SQL</text>
 
   <!-- title block -->
   <g class="in" style="animation-delay:.25s">

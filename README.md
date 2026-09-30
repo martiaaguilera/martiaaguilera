@@ -29,23 +29,35 @@ I'm studying **Multiplatform Application Development (DAM)** and run **[NuviaDev
 <table width="100%">
   <tr>
     <td width="150"><sub><b>LANGUAGES</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,py,php,java,c&perline=12" height="40" alt="TypeScript, JavaScript, Python, PHP, Java, C"></td>
+    <td><img src="assets/stack-languages.svg" height="40" alt="Java, Kotlin, Python, TypeScript, JavaScript, PHP, C#, C, Bash, PowerShell"></td>
   </tr>
   <tr>
     <td><sub><b>WEB</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vite,threejs,html,css,tailwind&perline=12" height="40" alt="React, Vite, Three.js, HTML5, CSS3, Tailwind"></td>
+    <td><img src="assets/stack-web.svg" height="40" alt="HTML5, CSS3, React, Vite, Three.js, Tailwind"></td>
   </tr>
   <tr>
-    <td><sub><b>DATA & SYSTEMS</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,linux,git,github,vercel&perline=12" height="40" alt="MySQL, Linux, Git, GitHub, Vercel"></td>
+    <td><sub><b>APPS & IDEs</b></sub></td>
+    <td><img src="assets/stack-apps.svg" height="40" alt="Android Studio, Unity, IntelliJ IDEA, Eclipse, VS Code"></td>
   </tr>
   <tr>
-    <td><sub><b>CMS</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=wordpress&perline=12" height="40" alt="WordPress"></td>
+    <td><sub><b>DATA</b></sub></td>
+    <td><img src="assets/stack-data.svg" height="40" alt="MySQL, Oracle, PostgreSQL, SQLite, MongoDB, Hibernate"></td>
+  </tr>
+  <tr>
+    <td><sub><b>SYSTEMS</b></sub></td>
+    <td><img src="assets/stack-systems.svg" height="40" alt="Linux, Windows, Git, GitHub, Vercel"></td>
+  </tr>
+  <tr>
+    <td><sub><b>CMS & ERP</b></sub></td>
+    <td><img src="assets/stack-cms.svg" height="40" alt="WordPress, Joomla, Odoo"></td>
+  </tr>
+  <tr>
+    <td><sub><b>AI TOOLS</b></sub></td>
+    <td><img src="assets/stack-ai.svg" height="40" alt="Claude Code, Codex"> &nbsp;<sub>Claude Code · Codex</sub></td>
   </tr>
 </table>
 
-<sub>Also: shadcn/ui · Apache · Joomla · XML, XPath & XQuery · Google Ads & Analytics</sub>
+<sub>Also: SQL & PL/SQL · JavaFX & Swing · JDBC · JUnit · UML · XML, XSD, XPath & XQuery · JSON · Apache · shadcn/ui · Google Ads & Analytics</sub>
 
 <br>
 
