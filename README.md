@@ -15,18 +15,18 @@ I'm studying **Multiplatform Application Development (DAM)** and run **[NuviaDev
 
 ### `01` Now
 
-|              |                                                                                   |
-| :----------- | :-------------------------------------------------------------------------------- |
-| **Building** | NuviaDev: custom websites for local businesses and entrepreneurs (CEO & co-founder) |
-| **Studying** | Higher Diploma in DAM · Institut Milà i Fontanals · 2025 → 2027                    |
-| **Running**  | Web & systems at Camins de Vent: site, server, ad campaigns                      |
-| **Next**     | A degree in Computer Engineering                                                  |
+<table width="100%">
+  <tr><td width="150"><sub><b>BUILDING</b></sub></td><td>NuviaDev: custom websites for local businesses and entrepreneurs <sub>(CEO & co-founder)</sub></td></tr>
+  <tr><td><sub><b>STUDYING</b></sub></td><td>Higher Diploma in DAM · Institut Milà i Fontanals · <code>2025 → 2027</code></td></tr>
+  <tr><td><sub><b>RUNNING</b></sub></td><td>Web & systems at Camins de Vent: site, server, ad campaigns</td></tr>
+  <tr><td><sub><b>NEXT</b></sub></td><td>A degree in Computer Engineering</td></tr>
+</table>
 
 <br>
 
 ### `02` Stack
 
-<table>
+<table width="100%">
   <tr>
     <td width="150"><sub><b>LANGUAGES</b></sub></td>
     <td><img src="https://skillicons.dev/icons?i=ts,js,py,php,java,c&perline=12" height="40" alt="TypeScript, JavaScript, Python, PHP, Java, C"></td>
